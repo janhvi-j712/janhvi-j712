@@ -1,96 +1,109 @@
-<h1 align="center">Hi 👋, I'm Janhvi</h1>
-<h3 align="center">Aspiring Software Developer | Frontend-Focused | Lifelong Learner</h3>
+<h1 align="center">Janhvi</h1>
+<h3 align="center">Senior Full Stack Developer | 10+ Years of Experience | Product-Driven Engineer</h3>
 
 <p align="center">
-  <em>Building clean, user-focused web experiences while continuously sharpening my technical skills.</em>
+  <em>Designing, building, and scaling reliable web applications with a focus on performance, maintainability, and business impact.</em>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💼 Professional Summary
 
-I’m an aspiring **software developer** with a strong interest in **modern web technologies** and building meaningful, scalable applications.  
-I enjoy turning ideas into interactive products and believe in writing clean, maintainable code.
+I am a **Senior Full Stack Developer with over 10 years of hands-on experience** building, deploying, and maintaining scalable web applications across diverse domains.  
+My expertise spans **frontend architecture, backend systems, API design, and collaborative product development**.
 
-- 🔭 Currently strengthening **frontend & full-stack fundamentals**
-- 🌱 Learning **advanced JavaScript** and **modern frameworks**
-- 🤝 Open to **collaboration**, **open source**, and **learning opportunities**
-- 🎯 Goal: Become a well-rounded **full-stack developer**
+I have a strong track record of:
+- Delivering production-grade applications
+- Translating business requirements into technical solutions
+- Writing clean, maintainable, and testable code
+- Collaborating effectively with designers, product managers, and stakeholders
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Competencies
+
+- Full Stack Web Development (Frontend + Backend)
+- Scalable Application Architecture
+- RESTful APIs & System Integration
+- Performance Optimization & Code Quality
+- Agile / Scrum Development
+- Technical Mentorship & Code Reviews
+
+---
+
+## 🛠️ Technical Expertise
 
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-</p>
+- JavaScript (ES6+)
+- HTML5, CSS3
 
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-</p>
+### ⚙️ Frontend
+- React (Hooks, Context, Component Architecture)
+- Vue.js
+- Responsive UI Development
+- Cross-Browser Compatibility
+- UI/UX Collaboration
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Figma-Design%20Basics-purple?style=for-the-badge&logo=figma" />
-</p>
+### 🧩 Backend
+- Node.js
+- Express.js
+- REST API Design
+- Authentication & Authorization
+- Backend Performance Optimization
 
----
-
-## 🚀 What I’m Working On
-
-- 🛠️ Building **real-world projects** to strengthen core concepts  
-- 📚 Deepening knowledge of **JavaScript, React, and backend basics**  
-- 📌 Creating a **professional portfolio** with documented projects  
+### 🧰 Tools & Platforms
+- Git & GitHub (branching strategies, PR reviews)
+- VS Code
+- Figma (design collaboration)
+- CI/CD Fundamentals
+- Agile Project Tools
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Professional Experience Highlights
 
-📍 *Project showcase coming soon!*  
-Each project will include:
-- ✅ Clear README
-- 🧠 Problem statement & solution
-- 💡 Clean, structured code
-- 🌐 Live demo (where applicable)
+- Architected and developed **end-to-end full stack solutions** from concept to deployment
+- Built **modular and reusable frontend components** for large-scale applications
+- Designed and maintained **secure, scalable backend services**
+- Improved application performance, maintainability, and developer efficiency
+- Actively participated in **technical decision-making and mentoring**
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Selected Work
+
+📍 *This repository features a curated selection of professional-grade projects, including:*
+
+- Scalable full-stack applications  
+- Well-documented APIs  
+- Clean architecture patterns  
+- Clear READMEs with problem statements, solutions, and demos  
+
+Each project reflects **real-world engineering standards** and best practices.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Professional Contact
 
-<p>
-  🌐 Portfolio: <em>Coming Soon</em><br>
-  💼 LinkedIn: <em>Add your LinkedIn URL</em><br>
-  📧 Email: <em>Add your professional email</em>
-</p>
+- 🌐 Portfolio: <em>Available upon request</em>
+- 💼 LinkedIn: <em>Add LinkedIn profile</em>
+- 📧 Email: <em>Add professional email</em>
 
 ---
 
-## 🤝 Let’s Build Together
+## 🤝 Open to Opportunities
 
-I’m always excited to:
-- Learn new technologies  
-- Collaborate on projects  
-- Contribute to open-source  
+I am open to:
+- Senior Full Stack / Lead Developer roles
+- High-impact product teams
+- Long-term collaboration and consulting opportunities
 
-⭐ If you like my work, feel free to star my repositories and connect!
+If you’re looking for an engineer who combines **technical depth, reliability, and a product mindset**, let’s connect.
