@@ -1,109 +1,102 @@
-<h1 align="center">Janhvi</h1>
-<h3 align="center">Senior Full Stack Developer | 10+ Years of Experience | Product-Driven Engineer</h3>
+<h1 align="center">Hi, I'm Janhvi 👋</h1>
 
 <p align="center">
-  <em>Designing, building, and scaling reliable web applications with a focus on performance, maintainability, and business impact.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Frontend-Focused+Engineer;Committed+to+Clean+%26+Scalable+Code" />
+</p>
+
+<p align="center">
+  <em>Entry-level software developer focused on building reliable, user-centric web applications with modern technologies.</em>
 </p>
 
 ---
 
-## 👩‍💼 Professional Summary
+## 👩‍💻 Professional Overview
 
-I am a **Senior Full Stack Developer with over 10 years of hands-on experience** building, deploying, and maintaining scalable web applications across diverse domains.  
-My expertise spans **frontend architecture, backend systems, API design, and collaborative product development**.
+I am a **fresher Full Stack Developer** with a strong foundation in **frontend and backend web development**.  
+I am passionate about writing clean, maintainable code and continuously improving my technical skills through hands-on projects.
 
-I have a strong track record of:
-- Delivering production-grade applications
-- Translating business requirements into technical solutions
-- Writing clean, maintainable, and testable code
-- Collaborating effectively with designers, product managers, and stakeholders
+I approach development with a **professional mindset**, strong attention to detail, and a commitment to learning industry best practices.
 
 ---
 
-## 🧠 Core Competencies
+## 🎯 Career Objective
 
-- Full Stack Web Development (Frontend + Backend)
-- Scalable Application Architecture
-- RESTful APIs & System Integration
-- Performance Optimization & Code Quality
-- Agile / Scrum Development
-- Technical Mentorship & Code Reviews
+To begin my career as a **Full Stack / Frontend Developer**, where I can:
+- Contribute to real-world projects  
+- Learn from experienced engineers  
+- Grow into a high-impact software professional  
 
 ---
 
-## 🛠️ Technical Expertise
+## 🧠 Technical Skills
 
-### 💻 Languages
-- JavaScript (ES6+)
-- HTML5, CSS3
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-### ⚙️ Frontend
-- React (Hooks, Context, Component Architecture)
-- Vue.js
-- Responsive UI Development
-- Cross-Browser Compatibility
-- UI/UX Collaboration
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" />
+</p>
 
-### 🧩 Backend
-- Node.js
-- Express.js
-- REST API Design
-- Authentication & Authorization
-- Backend Performance Optimization
-
-### 🧰 Tools & Platforms
-- Git & GitHub (branching strategies, PR reviews)
-- VS Code
-- Figma (design collaboration)
-- CI/CD Fundamentals
-- Agile Project Tools
-
----
-
-## 🚀 Professional Experience Highlights
-
-- Architected and developed **end-to-end full stack solutions** from concept to deployment
-- Built **modular and reusable frontend components** for large-scale applications
-- Designed and maintained **secure, scalable backend services**
-- Improved application performance, maintainability, and developer efficiency
-- Actively participated in **technical decision-making and mentoring**
-
----
-
-## 📂 Selected Work
-
-📍 *This repository features a curated selection of professional-grade projects, including:*
-
-- Scalable full-stack applications  
-- Well-documented APIs  
-- Clean architecture patterns  
-- Clear READMEs with problem statements, solutions, and demos  
-
-Each project reflects **real-world engineering standards** and best practices.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Figma-Design_Basics-f24e1e?style=flat-square&logo=figma" />
 </p>
 
 ---
 
-## 📫 Professional Contact
+## 🚀 What I’m Currently Doing
 
-- 🌐 Portfolio: <em>Available upon request</em>
-- 💼 LinkedIn: <em>Add LinkedIn profile</em>
-- 📧 Email: <em>Add professional email</em>
+- Developing **frontend and full-stack projects**
+- Strengthening **JavaScript and React fundamentals**
+- Practicing **clean code and project documentation**
+- Preparing a **professional project portfolio**
+
+---
+
+## 📂 Projects
+
+📌 *Projects listed here demonstrate:*
+- Real-world problem solving  
+- Clean folder structure  
+- Readable, well-commented code  
+- Professional README documentation  
+
+> Repositories are actively maintained and improved.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact Information
+
+- 🌐 Portfolio: *In progress*
+- 💼 LinkedIn: *Add LinkedIn URL*
+- 📧 Email: *Add professional email*
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I am open to:
-- Senior Full Stack / Lead Developer roles
-- High-impact product teams
-- Long-term collaboration and consulting opportunities
+I am actively seeking:
+- Entry-level / Fresher Software Developer roles  
+- Frontend or Full Stack positions  
+- Internship or trainee opportunities  
 
-If you’re looking for an engineer who combines **technical depth, reliability, and a product mindset**, let’s connect.
+I am motivated, disciplined, and ready to contribute while learning from industry professionals.
