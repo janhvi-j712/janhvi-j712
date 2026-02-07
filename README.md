@@ -1,118 +1,93 @@
-<!-- Header Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=180&section=header&text=Janhvi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=250&section=header&text=Janhvi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=650&lines=Fresher+Full+Stack+Developer;Frontend-Focused+Engineer;Committed+to+Clean+and+Scalable+Code" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EFF00&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend-Focused+Engineer;Building+Scalable+Solutions;Always+Learning+Hit+Enter..." alt="Typing SVG" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
+  <strong>Passionate Fresher | Code Artisan | Problem Solver</strong>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+</div>
+
+<br/>
 
 <p align="center">
-  <em>Entry-level software developer with a strong foundation in modern web technologies and a professional, growth-driven mindset.</em>
+  <em>I am an entry-level software developer with a disciplined engineering approach. I bridge the gap between <b>clean code</b> and <b>reliable user experiences</b>. My goal is to grow from a fresher into a high-impact contributor within a professional engineering team.</em>
 </p>
 
 ---
 
-## 👩‍💻 Professional Overview
-
-I am a **fresher Full Stack Developer** with hands-on experience in building structured, responsive, and maintainable web applications using modern frontend and backend tools.
-
-I bring a **disciplined engineering approach**, strong problem-solving skills, and a commitment to continuous learning. My focus is on writing clean code, following best practices, and delivering reliable user experiences.
-
----
-
-<!-- Section Divider Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E5E7EB&height=2&section=divider" />
-</p>
-
-## 🎯 Career Objective
-
-To start my professional journey as a **Full Stack / Frontend Developer**, where I can:
-- Contribute meaningfully to production-level projects  
-- Learn from senior engineers and mentors  
-- Grow into a dependable and high-impact software professional  
-
----
-
-## 🧠 Technical Skill Set
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
-</p>
-
-### 🛠 Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/VS_Code-007acc?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Figma-Design_Basics-f24e1e?style=flat&logo=figma" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- Building **real-world frontend & full-stack projects**
-- Strengthening **JavaScript, React, and backend fundamentals**
-- Practicing **clean architecture and documentation**
-- Preparing a **professional project portfolio**
-
----
-
-## 📂 Projects
-
-📌 *Each repository demonstrates:*
-- Structured project setup  
-- Clear problem definition  
-- Readable and maintainable code  
-- Professional README documentation  
-
-> Projects are actively improved as skills evolve.
-
----
-
-## 📊 GitHub Activity Snapshot
+<h2 align="center">🧠 Technical Arsenal</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,express,git,github,vscode,figma,postman&perline=6&theme=dark" />
+  </a>
+</p>
+
+---
+
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>🚀 Current Focus</h3>
+      <ul>
+        <li>🔭 Building <strong>production-ready</strong> frontend architectures.</li>
+        <li>📚 Deepening knowledge in <strong>React Design Patterns</strong>.</li>
+        <li>⚙️ Mastering <strong>Node.js</strong> backend flows.</li>
+        <li>🎨 Improving UI/UX sensibility via <strong>Figma</strong>.</li>
+      </ul>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3>📂 Project Philosophy</h3>
+      <ul>
+        <li>📌 <strong>Structure:</strong> Modular and scalable folders.</li>
+        <li>📝 <strong>Documentation:</strong> Professional READMEs.</li>
+        <li>wg <strong>Clean Code:</strong> Linting & Prettier standards.</li>
+        <li>🔄 <strong>Version Control:</strong> Semantic commit messages.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2EFF00&text_color=ffffff&icon_color=2EFF00&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2EFF00&text_color=ffffff&icon_color=2EFF00&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=2EFF00&text_color=ffffff&icon_color=2EFF00&sideNums=ffffff&sideLabels=ffffff&ring=2EFF00&fire=2EFF00&currStreakLabel=2EFF00&bg_color=0d1117" alt="streak stats" />
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  I am currently open to <strong>Full Stack / Frontend</strong> opportunities.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
-
-## 📫 Contact & Availability
-
-- 🌐 Portfolio: *In progress*
-- 💼 LinkedIn: *Add LinkedIn URL*
-- 📧 Email: *Add professional email*
-
----
-
-## 🤝 Open to Opportunities
-
-I am currently seeking:
-- Entry-level / Fresher Software Developer roles  
-- Frontend or Full Stack positions  
-- Internship or trainee opportunities  
-
-I am motivated, adaptable, and eager to grow while contributing value to a professional engineering team.
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=100&section=footer" width="100%"/>
+</div>
